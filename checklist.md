@@ -1,0 +1,23 @@
+# Orden de accciones
+
+- Revisar las personalidades
+- Cortar Madera
+- Revisar Arboles Frutales
+- Asignar pasto para animales
+  - Tener en cuenta cuales faltan para pedirlos a los comerciantes
+- Cavar una entrada
+  - Almacen de Madera y Carpinteria
+  - Huerto, Plantas, Destileria y Cocina
+  - Almacen de Semillas (sin barriles), Bebida, y Comida
+  - Quitar Plm helmet de la cocina
+  - Sebrar Plm Helmet y Cave Weat
+  - Hacer molino manual Quern
+- Carpiteria
+  - Crear silla y asignar Manager
+  - Orden de trabajo para Barriles
+  - Crear varias cajas (no orden)
+- Acuifero
+  - Solo usar una escalera, para hacer muro rapido y llegar a mejore niveles
+- Crear Habitaciones y Taverna solo para recidentes
+  - Si hay ninios hacer juguetes
+- Bloques y Mecanismos
