@@ -6,6 +6,7 @@
 - Asignar pasto para animales
   - Tener en cuenta cuales faltan para pedirlos a los comerciantes
 - Cavar una entrada
+  - Asignar varios Mineros   
   - Almacen de Madera y Carpinteria
   - Huerto, Plantas, Destileria y Cocina
   - Almacen de Semillas (sin barriles), Bebida, y Comida
